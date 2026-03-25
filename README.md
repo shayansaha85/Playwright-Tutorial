@@ -1,7 +1,7 @@
 
 # 🎭 Playwright Test Automation Suite
 
-Recently, I learned Playwright by going through the documentation in the Automation Panda GitHub repository. Using this knowledge, I built a solution for automated browser testing that supports multiple browsers, along with features like screenshots, video recording, and parallel execution.
+Recently, I learned Playwright by going through the documentation by some wonderful articles by AutomationPanda. Using this knowledge, I built a solution for automated browser testing that supports multiple browsers, along with features like screenshots, video recording, and parallel execution.
 
 ---
 
